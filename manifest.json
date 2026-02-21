@@ -1,0 +1,25 @@
+{
+  "name": "NuitTracker",
+  "short_name": "NuitTracker",
+  "description": "Suivi personnel des nuits et traitements",
+  "start_url": "./nuit-tracker.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08101f",
+  "theme_color": "#08101f",
+  "lang": "fr",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
